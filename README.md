@@ -6,11 +6,7 @@ Last modified on 27-Feb-2018
 # HOW TO USE:
 1. Unzip 'fdaM.zip' and need to include it as './fdaM'.
 
-2. Run 'example.R' to follow the process.
-
-It will run 'setup.R' which automatically installs all dependent R packages.
-
-Overall, code uses 1) R and 2) MATLAB (server connected from R).
+2. Run 'example.R' to follow the process. It will run 'setup.R' which automatically installs all dependent R packages. Overall, code uses 1) R and 2) MATLAB (server connected from R).
 
 
 # REFERENCES:
