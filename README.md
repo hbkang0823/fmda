@@ -3,7 +3,7 @@ Code for Functional Manifold Data Analysis (FMDA)
 
 Last modified on 27-Feb-2018
 
-# HOW TO USE:
+# INSTRUCTIONS :
 1. Download 'fdaM.zip' from http://www.psych.mcgill.ca/misc/fda/downloads/FDAfuns/Matlab/ and unzip it. It is important to include the codes in './fdaM' for the 'example.R' to run.
 
 2. Run 'example.R' to see the process of FMDA. It will run 'setup.R' which automatically installs all dependent R packages. Overall, code uses 1) R and 2) MATLAB (server connected from R).
