@@ -1,3 +1,8 @@
+# Before running anything, download 'fdaM.zip' 
+# from http://www.psych.mcgill.ca/misc/fda/downloads/FDAfuns/Matlab/ 
+# and unzip it. 
+# It is important to include the codes in './fdaM' for the code to run.
+
 # load necessary packages and codes
 source("setup.R")
 
