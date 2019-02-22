@@ -10,7 +10,7 @@ Last modified on 27-Feb-2018
 
 
 # REFERENCES:
-	fdaM.zip:	
+	fdaM.zip	
 
 Obtained from 
 
@@ -19,13 +19,13 @@ http://www.psych.mcgill.ca/misc/fda/downloads/FDAfuns/Matlab/
 Last Modified on 08-Aug-2017
 Accessed on 13-Oct-2017
 
-	./function/dimred: 
+	./function/dimred
 
 codes obtained from
 
-MANIfold learning demonstration GUI
-by Todd Wittman, Department of Mathematics, University of Minnesota
-MANI Website: http://www.math.ucla.edu/~wittman/mani/index.html
+MANIfold learning demonstration GUI\\
+by Todd Wittman, Department of Mathematics, University of Minnesota\\
+MANI Website: http://www.math.ucla.edu/~wittman/mani/index.html\\
 Last Modified by GUIDE v2.5 10-Apr-2005 13:28:36
 
 Methods obtained from various authors.
